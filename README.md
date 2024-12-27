@@ -1,4 +1,4 @@
-# Product Recommendation System with Sentiment Analysis
+# Product Recommendation System with Sentiment Analysis and Beta Distribution
 
 This repository contains a Python-based product recommendation system that uses natural language processing to analyze sentiments in comments and beta distribution to analyze rating scores. 
 
