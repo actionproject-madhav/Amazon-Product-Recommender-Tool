@@ -1,12 +1,12 @@
 # Product Recommendation System with Sentiment Analysis
 
-This repository contains a Python-based product recommendation system that generates recommendations and uses sentiment analysis on Amazon product reviews and statistical calculations. The goal is to provide users with an insightful analysis of products based on real-time data retrieved from Amazon.
+This repository contains a Python-based product recommendation system that uses natural language processing to analyze sentiments in comments and beta distribution to analyze rating scores. 
 
 ## Features
 
 - **Sentiment Analysis**: Analyzes product reviews using Sentiment Intensity Analysis (VADER)
 - **Statistical Analysis**: Used Beta Distribution to analyze rating scores
-- **Web Scraping**: Extracts review data using Selenium and BeautifulSoup to gather and analyze reviews from Amazon product pages in real time.
+- **Web Scraping**: Extracts review data using Selenium and BeautifulSoup to gather and analyze reviews from Amazon product pages in real-time.
 - **Real-time Recommendations**: Gives a final probability that you'll be satisfied buying the product
 
 ## Setup Instructions
